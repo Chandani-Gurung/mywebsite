@@ -9,7 +9,7 @@ function ReactApp() {
             <h1>Chandani Gurung</h1>
             </div>
             <p class="site-description">Aspiring Web Application Developer</p>
-            <img src="/images/image1.jpg" />
+            <img src="https://chandani-gurung.github.io/mywebsite/images/image1.jpg" />
         </div>
     )
 }

@@ -73,7 +73,7 @@ function Projects() {
           avatar={
             <Avatar
               alt="React-logo"
-              src="./logo192.png"
+              src="https://chandani-gurung.github.io/mywebsite/logo192.png"
               className={classes.avatar}
             ></Avatar>
           }
@@ -82,7 +82,7 @@ function Projects() {
         />
         <CardMedia
           className={classes.media}
-          image="./images/projects.png"
+          image="https://chandani-gurung.github.io/mywebsite/images/projects.PNG"
           title="CSLab"
         />
         <CardContent className={classes.content}>
@@ -123,7 +123,7 @@ function Projects() {
           avatar={
             <Avatar
               alt="C#-logo"
-              src="./csharplogo.png"
+              src="https://chandani-gurung.github.io/mywebsite/csharplogo.png"
               className={classes.avatar}
             ></Avatar>
           }
@@ -132,7 +132,7 @@ function Projects() {
         />
         <CardMedia
           className={classes.media}
-          image="./images/project2.png"
+          image="https://chandani-gurung.github.io/mywebsite/images/project2.PNG"
           title="CSLab"
         />
         <CardContent className={classes.content}>
@@ -172,7 +172,7 @@ function Projects() {
           avatar={
             <Avatar
               alt="SSMS-logo"
-              src="./ssmslogo.png"
+              src="https://chandani-gurung.github.io/mywebsite/ssmslogo.png"
               className={classes.avatar}
             ></Avatar>
           }
@@ -181,7 +181,7 @@ function Projects() {
         />
         <CardMedia
           className={classes.media}
-          image="./images/project3.png"
+          image="https://chandani-gurung.github.io/mywebsite/images/project3.PNG"
           title="CSLab"
         />
         <CardContent className={classes.content}>
@@ -220,7 +220,7 @@ function Projects() {
           avatar={
             <Avatar
               alt="KOTLIN-logo"
-              src="./kotlinlogo.jpg"
+              src="https://chandani-gurung.github.io/mywebsite/kotlinlogo.jpg"
               className={classes.avatar}
             ></Avatar>
           }
@@ -229,7 +229,7 @@ function Projects() {
         />
         <CardMedia
           className={classes.media}
-          image="./images/project4.png"
+          image="https://chandani-gurung.github.io/mywebsite/images/project4.PNG"
           title="CSLab"
         />
         <CardContent className={classes.content}>
