@@ -9,6 +9,7 @@ import HireMe from './components/pages/HireMe';
 import Hobbies from './components/pages/Hobbies';
 import Socials from './components/pages/Socials';
 
+
 function App() {
   return (
     <>
